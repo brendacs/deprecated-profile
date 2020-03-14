@@ -21,10 +21,19 @@ export default {
 <style lang="scss" scoped>
 .nav {
   padding: 30px 0;
+
+  @media screen and (max-width: 500px) {
+    padding-bottom: 0;
+  }
 }
 
 .nav-items {
   display: flex;
+  list-style: none;
+
+  @media screen and (max-width: 650px) {
+    display: block;
+  }
 }
 
 .nav-items a {

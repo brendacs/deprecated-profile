@@ -56,7 +56,7 @@ body {
 }
 
 ol, ul {
-  list-style: none;
+  list-style-position: inside;
 }
 
 blockquote, q {
@@ -88,6 +88,14 @@ html, body {
 
 #app {
   margin: 0 25vw;
+
+  @media screen and (max-width: 1024px) {
+    margin: 0 15vw;
+  }
+
+  @media screen and (max-width: 768px) {
+    margin: 0 10vw;
+  }
 }
 
 #app, h1, h2, h3, h4, h5, h6, p, a {
@@ -95,6 +103,7 @@ html, body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: #2c3e50;
+  text-align: justify;
 }
 
 a {
@@ -104,6 +113,7 @@ a {
 
   &:hover {
     color: #2c3e50;
+    cursor: pointer;
   }
 }
 
@@ -111,6 +121,18 @@ p {
   font-size: 16px;
   line-height: 1.5;
   margin-bottom: 20px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 40px 0 20px 0;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 30px;
 }
 
  /* https://coolors.co/7cfef0-6bffb8-2ceaa3-28965a-2a6041 */
