@@ -81,6 +81,15 @@ table {
 }
 
 /* globals */
+html, body {
+  background: #f7fbff;
+  background: #f9fcff;
+}
+
+#app {
+  margin: 0 25vw;
+}
+
 #app, h1, h2, h3, h4, h5, h6, p, a {
   font-family: 'Sen', sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -101,6 +110,7 @@ a {
 p {
   font-size: 16px;
   line-height: 1.5;
+  margin-bottom: 20px;
 }
 
  /* https://coolors.co/7cfef0-6bffb8-2ceaa3-28965a-2a6041 */

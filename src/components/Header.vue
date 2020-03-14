@@ -5,7 +5,7 @@
           <a href="/"><li>brendacs.dev</li></a>
           <a href="/projects"><li>Projects</li></a>
           <a href="/posts"><li>Posts</li></a>
-          <a href="/monk-mode" target="_blank"><li>Monk Mode</li></a>
+          <a href="/monk-mode"><li>Monk Mode</li></a>
           <a href="/contact"><li>Contact</li></a>
         </ul>
     </nav>
@@ -20,7 +20,7 @@ export default {
 
 <style lang="scss" scoped>
 .nav {
-  padding: 30px 10vw;
+  padding: 30px 0;
 }
 
 .nav-items {
