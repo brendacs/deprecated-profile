@@ -55,10 +55,6 @@ body {
   line-height: 1;
 }
 
-ol, ul {
-  list-style-position: inside;
-}
-
 blockquote, q {
   quotes: none;
 }
@@ -101,23 +97,6 @@ table {
   text-align: justify;
 }
 
-a {
-  text-decoration: underline;
-  color: rgb(0, 211, 134);
-  transition: all 0.1s ease;
-
-  &:hover {
-    color: #2c3e50;
-    cursor: pointer;
-  }
-}
-
-p {
-  font-size: 16px;
-  line-height: 1.5;
-  margin-bottom: 20px;
-}
-
 h1, h2, h3, h4, h5, h6 {
   margin: 40px 0 20px 0;
 }
@@ -128,6 +107,29 @@ h1 {
 
 h2 {
   font-size: 30px;
+}
+
+p {
+  font-size: 16px;
+  line-height: 1.5;
+  margin-bottom: 20px;
+}
+
+a {
+  text-decoration: underline;
+  color: rgb(0, 211, 134);
+  transition: all 0.1s ease;
+  line-height: 1.5;
+
+  &:hover {
+    color: #2c3e50;
+    cursor: pointer;
+  }
+}
+
+li {
+  list-style-position: inside;
+  line-height: 1.5;
 }
 
 .container {
