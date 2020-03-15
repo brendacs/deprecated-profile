@@ -2,11 +2,11 @@
   <header class="header">
     <nav class="nav">
         <ul class="nav-items">
-          <a href="/"><li>brendacs.dev</li></a>
-          <a href="/projects"><li>Projects</li></a>
-          <a href="/posts"><li>Posts</li></a>
-          <a href="/monk-mode"><li>Monk Mode</li></a>
-          <a href="/contact"><li>Contact</li></a>
+          <router-link to="/"><li>brendacs.dev</li></router-link>
+          <router-link to="/projects"><li>Projects</li></router-link>
+          <router-link to="/posts"><li>Posts</li></router-link>
+          <router-link to="/monk-mode"><li>Monk Mode</li></router-link>
+          <router-link to="/contact"><li>Contact</li></router-link>
         </ul>
     </nav>
   </header>

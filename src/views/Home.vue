@@ -24,7 +24,7 @@
     </p>
     <h2>What I've Done</h2>
     <p class="description">
-      I graduated from UC Berkeley with a Cognitive Science degree in May 2019, but I've done a whole lot of other things too. Check out my <a href="https://linkedin.com/in/brendacs" target="_blank">LinkedIn</a>, <a href="https://github.com/brendacs" target="_blank">GitHub</a>, <a href="/projects">projects</a>, <a href="/posts">posts</a>, or <a href="/monk-mode">Monk Mode reflections</a> to see what else I've done (or in some cases, am currently doing).
+      I graduated from UC Berkeley with a Cognitive Science degree in May 2019, but I've done a whole lot of other things too. Check out my <a href="https://linkedin.com/in/brendacs" target="_blank">LinkedIn</a>, <a href="https://github.com/brendacs" target="_blank">GitHub</a>, <router-link to="/projects">projects</router-link>, <router-link to="/posts">posts</router-link>, or <router-link to="/monk-mode">Monk Mode reflections</router-link> to see what else I've done (or in some cases, am currently doing).
     </p>
   </div>
 </template>
