@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <p class="name">Brenda Zhang</p>
+    <p class="title">Brenda Zhang</p>
     <p class="description">
       I dabble in everything and have a fleeting interest in most things I come across. However, over time I have found that there are three constants in my life &mdash; things I never have trouble focusing on, and I never run out of energy and curiousity for:
       <span class="block bold">humans, creating, and music.</span>
@@ -41,23 +41,6 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-  .home {
-    padding: 5vh 0;
-
-    @media screen and (max-width: 500px) {
-      padding-top: 5vh;
-    }
-  }
-
-  .name {
-    font-size: 50px;
-    text-decoration: underline;
-
-    @media screen and (max-width: 425px) {
-      font-size: 36px;
-    }
-  }
-
   span.block {
     display: block;
     margin-top: 20px;
@@ -65,13 +48,5 @@ export default {
 
   span.bold {
     font-weight: bold;
-  }
-
-  .hide {
-    display: none;
-  }
-
-  .show {
-    display: block;
   }
 </style>

@@ -1,6 +1,6 @@
 <template>
   <div class="monk-mode">
-    Monk Mode
+    <p class="title">Monk Mode</p>
   </div>
 </template>
 

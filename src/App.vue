@@ -1,7 +1,9 @@
 <template>
   <div id="app">
     <Header />
-    <router-view/>
+    <div class="container">
+      <router-view/>
+    </div>
   </div>
 </template>
 
@@ -126,6 +128,31 @@ h1 {
 
 h2 {
   font-size: 30px;
+}
+
+.container {
+  padding: 5vh 0;
+
+  @media screen and (max-width: 500px) {
+    padding-top: 5vh;
+  }
+}
+
+.hide {
+  display: none;
+}
+
+.show {
+  display: block;
+}
+
+.title {
+  font-size: 50px;
+  text-decoration: underline;
+
+  @media screen and (max-width: 425px) {
+    font-size: 36px;
+  }
 }
 
  /* https://coolors.co/7cfef0-6bffb8-2ceaa3-28965a-2a6041 */
