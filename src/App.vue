@@ -81,11 +81,6 @@ table {
 }
 
 /* globals */
-html, body {
-  background: #f7fbff;
-  background: #f9fcff;
-}
-
 #app {
   margin: 0 25vw;
 
