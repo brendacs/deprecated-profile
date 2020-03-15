@@ -89,12 +89,13 @@ table {
   }
 }
 
-#app, h1, h2, h3, h4, h5, h6, p, a {
+#app, h1, h2, h3, h4, h5, h6, p, a, input, button {
   font-family: 'Sen', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: #2c3e50;
   text-align: justify;
+  font-size: 16px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -110,7 +111,6 @@ h2 {
 }
 
 p {
-  font-size: 16px;
   line-height: 1.5;
   margin-bottom: 20px;
 }
@@ -154,6 +154,20 @@ li {
 
   @media screen and (max-width: 425px) {
     font-size: 36px;
+  }
+}
+
+.primary-btn {
+  height: 50px;
+  background-color: rgb(0, 211, 134);
+  color: #fff;
+  border: none;
+  padding: 0 20px;
+  cursor: pointer;
+  transition: all 0.1s ease;
+
+  &:hover {
+    background-color: rgba(0, 211, 134, 0.85);
   }
 }
 
