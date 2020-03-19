@@ -171,5 +171,9 @@ li {
   }
 }
 
+div.mce_inline_error {
+  display: none !important;
+}
+
  /* https://coolors.co/7cfef0-6bffb8-2ceaa3-28965a-2a6041 */
 </style>

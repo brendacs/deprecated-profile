@@ -9,32 +9,32 @@ import Contact from './views/Contact.vue'
 Vue.use(Router)
 
 export default new Router({
-    // mode: 'history',
-    routes: [
-        {
-            path: '/',
-            name: 'home',
-            component: Home
-        },
-        {
-            path: '/projects',
-            name: 'projects',
-            component: Projects
-        },
-        {
-            path: '/posts',
-            name: 'posts',
-            component: Posts
-        },
-        {
-            path: '/monk-mode',
-            name: 'monk-mode',
-            component: MonkMode
-        },
-        {
-            path: '/contact',
-            name: 'contact',
-            component: Contact
-        }
-    ]
+	// mode: 'history',
+	routes: [
+		{
+			path: '/',
+			name: 'home',
+			component: Home
+		},
+		{
+			path: '/projects',
+			name: 'projects',
+			component: Projects
+		},
+		{
+			path: '/posts',
+			name: 'posts',
+			component: Posts
+		},
+		{
+			path: '/monk-mode',
+			name: 'monk-mode',
+			component: MonkMode
+		},
+		{
+			path: '/contact',
+			name: 'contact',
+			component: Contact
+		}
+	]
 });
