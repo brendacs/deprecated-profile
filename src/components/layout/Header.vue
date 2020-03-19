@@ -6,7 +6,8 @@
           <router-link to="/projects"><li>Projects</li></router-link>
           <router-link to="/posts"><li>Posts</li></router-link>
           <router-link to="/monk-mode"><li>Monk Mode</li></router-link>
-          <router-link to="/contact"><li>Contact</li></router-link>
+          <!-- <router-link to="/contact"><li>Contact</li></router-link> -->
+          <a href="https://brendacs.dev/#/contact" target="_blank">Contact</a>
         </ul>
     </nav>
   </header>
