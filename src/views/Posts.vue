@@ -1,6 +1,7 @@
 <template>
   <div class="Posts">
-    <p class="title">Posts</p>
+    <h2 class="title">Posts</h2>
+    <p>There's nothing here yet.</p>
   </div>
 </template>
 

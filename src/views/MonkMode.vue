@@ -1,6 +1,6 @@
 <template>
   <div class="monk-mode">
-    <p class="title">Monk Mode</p>
+    <h2 class="title">Monk Mode</h2>
     <p>
       What is monk mode, and what is my personal monk mode plan? More info on that below.
     </p>

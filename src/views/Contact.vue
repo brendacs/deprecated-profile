@@ -1,6 +1,6 @@
 <template>
 	<div class="contact">
-		<p class="title">Contact</p>
+		<h2 class="title">Contact</h2>
 		<p>
 			If you like what I write in words or in code, subscribe to my monthly newsletter! Unsubscribe with a click from your inbox anytime.
 		</p>

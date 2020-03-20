@@ -151,6 +151,7 @@ li {
 .title {
   font-size: 50px;
   text-decoration: underline;
+  margin-top: 0;
 
   @media screen and (max-width: 425px) {
     font-size: 36px;

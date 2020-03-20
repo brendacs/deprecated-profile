@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <p class="title">Brenda Zhang</p>
+    <h2 class="title">Brenda Zhang</h2>
     <p>
       I dabble in everything and have a fleeting interest in most things I come across. However, over time I have found that there are three constants in my life &mdash; things I never have trouble focusing on, and I never run out of energy and curiousity for:
       <span class="block bold">humans, creating, and music.</span>
