@@ -36,7 +36,9 @@ import SubscribeForm from '../components/SubscribeForm.vue'
 
 export default {
 	name: 'Contact',
-	components: SubscribeForm,
+	components: {
+		SubscribeForm
+	},
 	data() {
 		return {
 			copy: () => {

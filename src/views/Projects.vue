@@ -17,7 +17,7 @@
       <a href="https://github.com/brendacs/desktop">Desktop Personal Portfolio</a>. The desktop is the window to a developer's soul. This is a personal portfolio I modeled after my own Mac desktop.
     </p>
     <p>
-      <a href="https://github.com/brendacs/csch">CS Career Hackers</a>. Website for CS Career Hackers, a community of software engineers on a mission of lifelong-learning.
+      <a href="https://github.com/brendacs/csch">CS Career Hackers</a>. A revamped website built from scratch for the CS Career Hackers nonprofit, which connects a community of software engineers on a mission of lifelong-learning with peers, mentors, and mock interviewers.
     </p>
 
     <h2>Archived</h2>
@@ -29,7 +29,7 @@
       <a href="https://github.com/brendacs/referobot">Referobot</a>. A referral bot, created for referral-based Discord servers to easily count invites per member, top referrers, and number of members in the server.
     </p>
     <p>
-      <a href="https://github.com/brendacs/devils-advocate">Devil's Advocate</a> (freelance). Weekly newsletter that sends political articles subscribers will disagree with in order to foster more open-minded dialog. Includes <a href="https://github.com/brendacs/devils-advocate-api">API</a> for automatically categorizing subscribers based on quiz answers and assigning MailChimp tags.
+      <a href="https://github.com/brendacs/devils-advocate">Devil's Advocate</a> (freelance). Weekly newsletter that sends political articles subscribers will disagree with in order to foster more open-minded dialog. Includes <a href="https://github.com/brendacs/devils-advocate-api">backend</a> for automatically categorizing subscribers based on quiz answers and assigning MailChimp tags.
     </p>
     <p>
       <a href="https://github.com/Registria/Liquefy">Liquefy</a>. Liquid language filtering app for non-technical <a href="https://www.registria.com/">Registria</a> staff. Input any block of code with Liquid templating, and it’ll filter it for the Liquid snippets.
