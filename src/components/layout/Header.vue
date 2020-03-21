@@ -33,7 +33,7 @@ export default {
   list-style: none;
 
   @media screen and (max-width: 650px) {
-    display: block;
+    flex-direction: column;
   }
 }
 

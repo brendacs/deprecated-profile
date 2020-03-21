@@ -27,7 +27,8 @@
 			Other than through my blog and reflections, there are a few other ways to stay up to speed with what I'm working on or chat with me.
 		</p>
 		<p>
-			<a href="mailto:hello@brendacs.dev" target="_blank">hello@brendacs.dev</a>. Send me an email any time, about anything.
+			<input @click="copy" class="email-address" type="text" value="hello@brendacs.dev"/>. Send me an email any time, about anything.
+			<span class="email-address-copy-text">Click to copy.</span>
 		</p>
 		<p>
 			<a href="https://www.linkedin.com/in/brendacs" target="_blank">LinkedIn</a>. I'm not always on, but I answer messages when I can.
@@ -49,11 +50,43 @@
 
 <script>
 export default {
-	name: 'Contact'
+	name: 'Contact',
+	data() {
+		return {
+			copy: () => {
+				var copyText = document.querySelector(".email-address");
+				copyText.select();
+				document.execCommand("copy");
+				document.querySelector('.email-address-copy-text').innerHTML = 'Copied to clipboard!'
+			}
+		}
+	}
 }
 </script>
 
 <style lang="scss" scoped>
+.email-address {
+	border: none;
+	width: 150px;
+	cursor: pointer;
+	color: transparent;
+  text-shadow: 0 0 0 rgb(0, 211, 134);
+	text-decoration: underline;
+
+	&::selection {
+		background: none;
+	}
+
+	&:focus {
+    outline: none;
+  }
+
+	&-copy-text {
+		display: block;
+		font-size: 12px;
+	}
+}
+
 form {
 	display: flex;
 	justify-content: center;
