@@ -24,7 +24,3 @@ export default {
   name: 'MonkMode'
 }
 </script>
-
-<style lang="scss" scoped>
-
-</style>
