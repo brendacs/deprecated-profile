@@ -10,7 +10,7 @@
       Other than through my blog and reflections, there are a few other ways to stay up to speed with what I'm working on or chat with me.
     </p>
     <p>
-      <input @click="copy" class="email-address" type="text" value="hello@brendacs.dev"/>. Send me an email any time, about anything.
+      <input @click="copy" class="email-address" readonly type="text" value="hello@brendacs.dev"/>. Send me an email any time, about anything.
       <span class="email-address-copy-text">Click to copy.</span>
     </p>
     <p>
