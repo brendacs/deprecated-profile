@@ -26,7 +26,7 @@
       <a href="https://discord.com" target="_blank">@brenda#3261</a>. Want to have a quick chat? Discord is the way to go.
     </p>
     <p>
-      <a href="https://brendacs.github.io/desktop/" target="_blank">Desktop</a>. The desktop is the window to a developer's soul. For more information and files such as my resume, feel free to sift through this desktop I modeled after my own.
+      <a href="https://brendacs.github.io/desktop-update/" target="_blank">Desktop</a>. The desktop is the window to a developer's soul. For more information and files such as my resume, feel free to sift through this desktop I modeled after my own.
     </p>
   </div>
 </template>

@@ -96,6 +96,10 @@ table {
   color: #2c3e50;
   text-align: justify;
   font-size: 16px;
+
+  @media screen and (max-width: 767px) {
+    text-align: left;
+  }
 }
 
 h1, h2, h3, h4, h5, h6 {
