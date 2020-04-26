@@ -20,7 +20,7 @@
     </div>
     <h2>What I Do</h2>
     <p>
-      By day, I'm a software engineer at Adobe and site lead for the corporate club I co-founded, New@Adobe. By night, I'm a student pursuing a <a href="https://online.stanford.edu/programs/human-computer-interaction-graduate-certificate" target="_blank">Human-Computer Interaction Graduate Certificate</a>, compulsive side projecter, multitasking blogger, avid reader, and dedicated guitarist. I also volunteer with <a href="https://www.cscareerhackers.org/" target="_blank">CS Career Hackers</a>, <a href="https://www.humanityroad.org/" target="_blank">Humanity Road</a>, and <a href="https://dialogtolearn.org/" target="_blank">Dialog To Learn</a>.
+      By day, I'm a software engineer at Adobe and site lead for the corporate club I co-founded, New@Adobe. By night, I'm a compulsive side projecter, multitasking blogger, avid reader, and dedicated guitarist. I also volunteer with <a href="https://www.cscareerhackers.org/" target="_blank">CS Career Hackers</a>.
     </p>
     <h2>What I've Done</h2>
     <p>
