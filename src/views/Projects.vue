@@ -14,10 +14,10 @@
       <a href="https://github.com/brendacs/me" target="_blank">brendacs.dev</a>. Does this website count? Though using Vue for this simple website is a bit overkill and a static site or blog generator like Jekyll might have been a more sensible choice, I wanted to ease into the framework and stop procastinating on using it.
     </p>
     <p>
-      <a href="https://github.com/brendacs/stop-bot" target="_blank">Discord Stop Bot</a>. A message moderation bot that automatically "stops" and deletes messages for Discord server admins and mods.
+      <a href="https://github.com/brendacs/stop-bot" target="_blank">Discord Stop Bot</a>. A Node.js message moderation bot that automatically "stops" and deletes messages for Discord server admins and mods.
     </p>
     <p>
-      <a href="https://brendacs.github.io/desktop-update" target="_blank">Updated Desktop Personal Portfolio</a>. The desktop is the window to a developer's soul. This is a personal portfolio I modeled after my own Mac desktop, updated from my <a href="https://brendacs.github.io/desktop/" target="_blank">old version</a> for 2020, using Vue.
+      <a href="https://brendacs.github.io/desktop-update" target="_blank">Updated Desktop Personal Portfolio</a>. The desktop is the window to a developer's soul. This is a personal portfolio I modeled after my own Mac desktop, updated for 2020, using Vue, from my <a href="https://brendacs.github.io/desktop/" target="_blank">old version</a>.
     </p>
     <p>
       <a href="https://github.com/brendacs/csch" target="_blank">CS Career Hackers</a>. A revamped website built from scratch for the CS Career Hackers nonprofit, which connects a community of software engineers on a mission of lifelong-learning with peers, mentors, and mock interviewers.
@@ -38,7 +38,7 @@
       <a href="https://github.com/brendacs/desktop" target="_blank">Desktop Personal Portfolio</a>. The desktop is the window to a developer's soul. This is a personal portfolio I modeled after my own Mac desktop.
     </p>
     <p>
-      <a href="https://github.com/Registria/Liquefy" target="_blank">Liquefy</a>. Liquid language filtering app for non-technical <a href="https://www.registria.com/">Registria</a> staff. Input any block of code with Liquid templating, and it’ll filter it for the Liquid snippets.
+      <a href="https://github.com/Registria/Liquefy" target="_blank">Liquefy</a>. Liquid language filtering app built with React for non-technical <a href="https://www.registria.com/">Registria</a> staff. Input any block of code with Liquid templating, and it’ll filter it for the Liquid snippets.
     </p>
     <p>
       <a href="https://github.com/brendacs/newsworthy-tab" target="_blank">Newsworthy New Tab</a>. This one is a little embarrassing since I built it when I was first learning how to code, but I tried my hand at building a Chrome extension, a new tab page.
@@ -58,7 +58,7 @@
     <h2>Revisiting</h2>
     <p>Sometimes I find old files and think, "Hm, I like the concept of this enough to fix it up."</p>
     <p>
-      <a href="https://github.com/brendacs/perks" target="_blank">Perks.Guide Redesign</a>. Building on top of the concept of the original Perks.Guide to add more companies, better filtering, and cleaner UI.
+      <a href="https://github.com/brendacs/perks" target="_blank">Perks.Guide Redesign</a>. Building on top of the concept of the original Perks.Guide to add more companies, better filtering, and cleaner UI. Built with React.
     </p>
     <p>
       <a href="https://github.com/brendacs/sleep-outreach-project" target="_blank">Sleep Outreach Project</a>. An interactive website about the benefits of sleep, built for my favorite psychology class in college.
