@@ -2,7 +2,7 @@
   <div class="contact">
     <h2 class="title">Contact</h2>
     <p>
-      If you like what I write in words or in code, subscribe to my monthly newsletter! Unsubscribe with a click from your inbox anytime.
+      If you like what I write in words or in code, subscribe to my newsletter for occassional updates! Unsubscribe with a click from your inbox anytime.
     </p>
     <SubscribeForm />
     <h2>Virtual Presence</h2>
