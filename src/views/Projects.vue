@@ -20,11 +20,14 @@
       <a href="https://brendacs.github.io/desktop-update" target="_blank">Updated Desktop Personal Portfolio</a>. The desktop is the window to a developer's soul. This is a personal portfolio I modeled after my own Mac desktop, updated for 2020, using Vue, from my <a href="https://brendacs.github.io/desktop/" target="_blank">old version</a>.
     </p>
     <p>
+      <a href="https://github.com/brendacs/perks" target="_blank">Perks.Guide Redesign</a>. Building on top of the concept of the original Perks.Guide to add more companies, better filtering, and cleaner UI. Built with React.
+    </p>
+    <p>
       <a href="https://github.com/brendacs/csch" target="_blank">CS Career Hackers</a>. A revamped website built from scratch for the CS Career Hackers nonprofit, which connects a community of software engineers on a mission of lifelong-learning with peers, mentors, and mock interviewers.
     </p>
 
     <h2>Archived</h2>
-    <p>Projects that are completely finished, but no longer being maintained or fixed up.</p>
+    <p>Projects that are completely finished, but no longer being maintained.</p>
     <p>
       <a href="https://github.com/brendacs/rolley-py" target="_blank">Rolley</a>. A Python-based role management bot for Discord, where members of a server use emoji reacts to self-assign roles.
     </p>
@@ -57,9 +60,6 @@
 
     <h2>Revisiting</h2>
     <p>Sometimes I find old files and think, "Hm, I like the concept of this enough to fix it up."</p>
-    <p>
-      <a href="https://github.com/brendacs/perks" target="_blank">Perks.Guide Redesign</a>. Building on top of the concept of the original Perks.Guide to add more companies, better filtering, and cleaner UI. Built with React.
-    </p>
     <p>
       <a href="https://github.com/brendacs/sleep-outreach-project" target="_blank">Sleep Outreach Project</a>. An interactive website about the benefits of sleep, built for my favorite psychology class in college.
     </p>
